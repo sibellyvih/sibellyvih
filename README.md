@@ -1,6 +1,7 @@
 ### Boas vindas ao meu perfil 🤍
 
-![Welcome](![Uploading tenor.gif…])
+![Welcome](![Uploading tenor.gif…]())
 
 
 Estou desenvolvendo alguns projetos
+
