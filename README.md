@@ -4,5 +4,4 @@
 
 
 - Estou desenvolvendo alguns projetos😊
-- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos envolvidos.
 
