@@ -1,8 +1,8 @@
-## Boas-vindas ao meu perfil 🤍
+<img src="images/header.svg"></img>
 
 ![Welcome](https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif)
 
-- Estou desenvolvendo alguns projetos😊  
+### Conheça meus projetos 🤍
 
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
   [Dicas de Intercâmbio](https://sibellyvih.github.io/dicas_de_intercambio/)  
