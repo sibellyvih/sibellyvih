@@ -4,7 +4,7 @@
 
 - Estou desenvolvendo alguns projetos😊  
 
-- 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
+- 🌏 Projetos que fiz sobre o meu intercâmbio :new_zealand:
   [Dicas de Intercâmbio](https://sibellyvih.github.io/dicas_de_intercambio/)  
   [Diário de Intercâmbio](https://sibellyvih.github.io/diario_de_intercambio/)  
 
