@@ -9,4 +9,11 @@
   [Diário de Intercâmbio](https://sibellyvih.github.io/diario_de_intercambio/)  
 
 - 🏆 Projeto que foi premiado na XIII Feira de Inovação das Ciências e Engenharias - FIciencias  
-  [ECO BOARD GAME](https://sibellyvih.github.io/ECO-BOARD-GAME/index.html)  
+  [ECO BOARD GAME](https://sibellyvih.github.io/ECO-BOARD-GAME/index.html)
+
+<div align="center">
+  <h3>Contact Me</h3>
+  <a href="https://www.instagram.com/sibellyvi/"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=0060FF&color:FFF" alt=""></a>
+  <a href="https://www.linkedin.com/in/sibellyvi/"><img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0060FF&color:FFF" alt=""></a> 
+</div>
+<hr>
