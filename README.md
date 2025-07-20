@@ -1,15 +1,30 @@
 <img src="images/header.svg"></img>
 
-![Welcome](https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif)
+<p align="center">
+  <img src="https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif" alt="Welcome GIF">
+</p>
 
-### Conheça meus projetos 🤍
+
+## Conheça meus projetos 🤍
 
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
-  [Dicas de Intercâmbio](https://sibellyvih.github.io/dicas_de_intercambio/)  
-  [Diário de Intercâmbio](https://sibellyvih.github.io/diario_de_intercambio/)  
+<div style="display: flex; align-items: center; justify-content: center; gap: 100px; margin: 20px 0;">
+  <div>
+    <a href="https://sibellyvih.github.io/dicas_de_intercambio/">Dicas de Intercâmbio</a><br>
+    <a href="https://sibellyvih.github.io/d5ario_de_intercambio/">Diário de Intercâmbio</a>
+  </div>
+  <img src="nz-flag-gif.gif" alt="NZ flag" width="250px">
+</div>
 
 - 🏆 Projeto que foi premiado na XIII Feira de Inovação das Ciências e Engenharias - FIciencias  
-  [ECO BOARD GAME](https://sibellyvih.github.io/ECO-BOARD-GAME/index.html)
+ <div style="display: flex; align-items: center; justify-content: center; gap: 100px; margin: 20px 0;">
+  <div>
+    <a href="https://sibellyvih.github.io/ECO-BOARD-GAME/index.html">ECO BOARD GAME</a>
+  </div>
+  <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="250px">
+</div>
+
+---------
 
 <div align="center">
   <h3>Contact Me</h3>
