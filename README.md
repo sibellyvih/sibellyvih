@@ -8,21 +8,22 @@
 ## Conheça meus projetos 🤍
 
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
-<div style="display: flex; align-items: center; justify-content: center; gap: 100px; margin: 20px 0;">
-  <div>
+
+  
     <a href="https://sibellyvih.github.io/dicas_de_intercambio/">Dicas de Intercâmbio</a><br>
     <a href="https://sibellyvih.github.io/d5ario_de_intercambio/">Diário de Intercâmbio</a>
+   
+  <div align="center">
+    <img src="nz-flag-gif.gif" alt="NZ flag" width="250px">
   </div>
-  <img src="nz-flag-gif.gif" alt="NZ flag" width="250px">
-</div>
+ 
 
 - 🏆 Projeto que foi premiado na XIII Feira de Inovação das Ciências e Engenharias - FIciencias  
- <div style="display: flex; align-items: center; justify-content: center; gap: 100px; margin: 20px 0;">
-  <div>
+  
     <a href="https://sibellyvih.github.io/ECO-BOARD-GAME/index.html">ECO BOARD GAME</a>
+  <div align="center">
+    <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="250px">
   </div>
-  <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="250px">
-</div>
 
 ---------
 
