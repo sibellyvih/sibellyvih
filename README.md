@@ -1,11 +1,11 @@
 <img src="images/header.svg"></img>
 
 <p align="center">
-  <img src="https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif" alt="Welcome GIF">
+  <img src="https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif" alt="Welcome GIF" width="280px">
 </p>
 
 
-## Conheça meus projetos 🤍
+### Conheça meus projetos 🤍
 
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
 
@@ -14,7 +14,7 @@
     <a href="https://sibellyvih.github.io/d5ario_de_intercambio/">Diário de Intercâmbio</a>
    
   <div align="center">
-    <img src="nz-flag-gif.gif" alt="NZ flag" width="250px">
+    <img src="nz-flag-gif.gif" alt="NZ flag" width="225px">
   </div>
  
 
@@ -22,7 +22,7 @@
   
     <a href="https://sibellyvih.github.io/ECO-BOARD-GAME/index.html">ECO BOARD GAME</a>
   <div align="center">
-    <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="250px">
+    <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="225px">
   </div>
 
 ---------
