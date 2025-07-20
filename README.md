@@ -1,11 +1,11 @@
 <img src="images/header.svg"></img>
 
 <p align="center">
-  <img src="https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif" alt="Welcome GIF" width="280px">
+  <img src="https://tenor.com/view/barbie-movie-waving-hi-barbie-margot-robbie-gif-3408855248780229322.gif" alt="Welcome GIF" width="310px">
 </p>
 
 
-### Conheça meus projetos 🤍
+## Conheça meus projetos 🤍
 
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
 
