@@ -11,7 +11,7 @@
 
   
     <a href="https://sibellyvih.github.io/dicas_de_intercambio/">Dicas de Intercâmbio</a><br>
-    <a href="https://sibellyvih.github.io/d5ario_de_intercambio/">Diário de Intercâmbio</a>
+    <a href="https://sibellyvih.github.io/diario_de_intercambio/">Diário de Intercâmbio</a>
    
   <div align="center">
     <img src="nz-flag-gif.gif" alt="NZ flag" width="225px">
