@@ -7,6 +7,17 @@
 
 ## Conheça meus projetos 🤍
 
+<p align="center">
+
+<b>Meu Portfólio</b><br>
+<a href="https://sibellyvih.github.io/Projetos_Sibelly/">
+ Clique aqui para conhecer meus projetos, premiações, eventos, artigos científicos e entre outros.
+</a>
+
+</p>
+
+---
+
 - 🌏 Projetos que fiz sobre o meu intercâmbio 🇳🇿  
 
   
