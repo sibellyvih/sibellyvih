@@ -1,3 +1,4 @@
+- [Conheça meus projetos 🤍](#conheça-meus-projetos-)
 <img src="images/header.svg"></img>
 
 <p align="center">
@@ -36,6 +37,15 @@
     <img src="logo-ficiencias-branco.png" alt="Logo da Ficiencias" width="225px">
   </div>
 
+-----
+
+## GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=sibellyvih&hide_border=true&include_all_commits=true&count_private=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=1a1b27)
+
+![](https://streak-stats.demolab.com/?user=sibellyvih&hide_border=true&ring=ff69b4&fire=ff69b4&currStreakLabel=ff69b4&sideLabels=ff69b4&dates=ffffff)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sibellyvih&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=1a1b27)
 ---------
 
 <div align="center">
