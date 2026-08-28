@@ -49,7 +49,8 @@
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sibellyvih&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=ff69b4&text_color=ffffff&bg_color=1a1b27)
 </div>
----------
+
+----
 
 <div align="center">
   <h3>Contact Me</h3>
